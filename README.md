@@ -15,3 +15,5 @@ Connect to local WiFi network with an ESP8266 and respond to UDP requests with t
      ```
 
 Be sure to set your WiFi AP credentials and UDP response IP and port in the code.
+
+Temperature and humidity are displayed on an attached DFRobot I2C 16x2 Arduino LCD with RGB Backlight Display module.
