@@ -4,7 +4,7 @@ Connect to local WiFi network with an ESP8266 and respond to UDP requests with t
 
  - Upload `esp8266_dht11_udp.ino` to your ESP8266  
  - Open the serial terminal: `cu -l /dev/ttyUSB0 -s 115200`
- - Send UDP packet with contents `GET` to ESP8255 IP and port (3210)
+ - Send UDP packet with contents `GET` to ESP8266 IP and port (3210)
  - Terminal output:
 
      ```
